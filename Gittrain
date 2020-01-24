@@ -4,4 +4,4 @@ b=20
 echo $(($a + $b)
 read a
 read b
-echo "enter the 3rd number"
+echo "enter the 2nd number"
